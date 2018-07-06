@@ -1,0 +1,8 @@
+prefix=/home/h2r/Desktop/SummerProject/demoStock/catkin_ws/install
+
+Name: ein
+Description: Description of ein
+Version: 1.0.0
+Cflags: -I/home/h2r/Desktop/SummerProject/demoStock/catkin_ws/install/include
+Libs: -L/home/h2r/Desktop/SummerProject/demoStock/catkin_ws/install/lib 
+Requires: eigen message_runtime std_msgs object_recognition_msgs
